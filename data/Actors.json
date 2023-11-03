@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$CLOUD","classId":1,"equips":[],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"克劳德·斯特莱夫","nickname":"","note":"<多帧行走图:动画帧间隔:1+(7-speed)*3>\nFootstep Sprite: ","profile":"急于证明自身价值的年轻人，只身前往M市工作生活。有乡野出身孩子粗鲁的一面，但在面对萨菲罗斯时总是不自觉带上礼貌用语。最近似乎遇见了一些棘手事。"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$CLOUD","classId":1,"equips":[],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"克劳德·斯特莱夫","nickname":"","note":"<多帧行走图:动画帧间隔:1+(7-speed)*3>\nFootstep Sprite: 脚印-鸡爪(mog)","profile":"急于证明自身价值的年轻人，只身前往M市工作生活。有乡野出身孩子粗鲁的一面，但在面对萨菲罗斯时总是不自觉带上礼貌用语。最近似乎遇见了一些棘手事。"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"!$萨菲罗斯","classId":2,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"萨菲罗斯","nickname":"","note":"","profile":"公寓的主人，克雷森特现任家主兼司教，在雷厉风行的手腕和大胆的作风似乎比上任家主更受好评，两个月前意外患上了畏光症，从此闭门不出。"}
+]
